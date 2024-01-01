@@ -28,7 +28,7 @@ map.html
 <font color="red"><b>Ramanathapuram</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b> Mohamed Asil (23013491)</b></font>
+<font color="blue"><b> karthik G (23013913)</b></font>
 </h3>
 <center>
 <img src="map.png" usemap="#MyCity" height="610" width="1450">
